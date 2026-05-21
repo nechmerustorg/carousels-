@@ -1,0 +1,119 @@
+{
+  "_schema": "carousel-v1",
+  "_note": "Nahraj do Carousel Creator přes 'Načíst JSON'. Fotky doplň ručně v editoru.",
+  "meta": {
+    "title": "Prasátka z Louky — Flíček a Princezna",
+    "theme": "rose",
+    "design": "organic"
+  },
+  "slides": [
+    {
+      "id": 0,
+      "type": "hook",
+      "bg": "light",
+      "tag": "VĚDĚL/A JSI?",
+      "heading": "Prasátka jsou roztomilá. Prasátka jsou chytrá. Prasátka jsou chaos.",
+      "body": "Poznej Flíčka, Princeznu a pár faktů, které jsi o prasátkách možná nečekal/a.",
+      "textAlignV": "center",
+      "decorativeEmoji": "🐖"
+    },
+    {
+      "id": 1,
+      "type": "photo",
+      "bg": "dark",
+      "tag": "FLÍČEK",
+      "emoji": "🐖",
+      "heading": "Zahradník, kterého jsme si nevybrali",
+      "body": "Jmenuji se Flíček a rozrývání zahrady je moje životní poslání. Záhony nestavím — odstraňuji je. Systematicky, s láskou a bez omluvy.",
+      "imgSrc": "",
+      "posX": 50,
+      "posY": 35,
+      "textY": 215
+    },
+    {
+      "id": 2,
+      "type": "photo",
+      "bg": "light",
+      "tag": "PRINCEZNA",
+      "emoji": "👑",
+      "heading": "Diva, která si prošla dlouhou cestou za svým trůnem",
+      "body": "Dlouho pobývala u souseda na zahrádce — než se rozhodla, že tohle není důstojné prostředí. Teď stojí předníma nožkama na plůtku, celá uslintaná, a čeká na večeři. Klidně pět minut předem.",
+      "imgSrc": "",
+      "posX": 50,
+      "posY": 35,
+      "textY": 215
+    },
+    {
+      "id": 3,
+      "type": "photo",
+      "bg": "dark",
+      "tag": "FAKT #1",
+      "emoji": "🧠",
+      "heading": "Chytřejší než pes. A než průměrné tříleté dítě.",
+      "body": "Prasata zvládají zrcadlový test, učí se jednoduché hry na joysticku a řeší logické úlohy. Vědci je řadí mezi 5 nejinteligentnějších zvířat na světě.",
+      "imgSrc": "",
+      "posX": 50,
+      "posY": 35,
+      "textY": 215
+    },
+    {
+      "id": 4,
+      "type": "photo",
+      "bg": "light",
+      "tag": "FAKT #2",
+      "emoji": "💧",
+      "heading": "„Potit se jako prase“ — naprostý nesmysl",
+      "body": "Prasata nemají potní žlázy. Vůbec. Celá fráze je biologický omyl. Prasata se nepotí — a přesto jsou při jídle schopná překonat jakýkoliv rekord v dramatickém výrazu.",
+      "imgSrc": "",
+      "posX": 50,
+      "posY": 35,
+      "textY": 215
+    },
+    {
+      "id": 5,
+      "type": "photo",
+      "bg": "dark",
+      "tag": "FAKT #3",
+      "emoji": "🌿",
+      "heading": "Válení v blátě? To je jejich klimatizace i opalovací krém.",
+      "body": "Bláto chrání kůži před sluncem a ochlazuje tělo místo pocení. Je to přirozený SPF 50 a chladicí systém v jednom. Geniální, přiznejme si.",
+      "imgSrc": "",
+      "posX": 50,
+      "posY": 35,
+      "textY": 215
+    },
+    {
+      "id": 6,
+      "type": "photo",
+      "bg": "light",
+      "tag": "FAKT #4",
+      "emoji": "🗺️",
+      "heading": "Paměť jako slon — jen v menším těle",
+      "body": "Prasata si roky pamatují lidi, místa i zážitky. Princezna si například dobře pamatuje, kde u souseda bylo nejlepší jídlo.",
+      "imgSrc": "",
+      "posX": 50,
+      "posY": 35,
+      "textY": 215
+    },
+    {
+      "id": 7,
+      "type": "photo",
+      "bg": "dark",
+      "tag": "FAKT #5",
+      "emoji": "🎤",
+      "heading": "Přes 20 různých zvuků — a každý něco znamená",
+      "body": "Prasata komunikují celou škálou zvuků: od tichého frkání přes spokojené chrochtání až po ten nezaměnitelný hysterický výkřik těsně před večeří. Princezna ovládá celý repertoár.",
+      "imgSrc": "",
+      "posX": 50,
+      "posY": 35,
+      "textY": 215
+    },
+    {
+      "id": 8,
+      "type": "cta",
+      "bg": "gradient",
+      "heading": "Chceš sledovat příběhy Flíčka a Princezny?",
+      "body": "Sleduj náš profil — každý týden nový kousek ze života na Louce."
+    }
+  ]
+}
