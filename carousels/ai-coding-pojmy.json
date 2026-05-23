@@ -1,0 +1,132 @@
+{
+  "_schema": "carousel-v1",
+  "_note": "Nahraj do Carousel Creator přes 'Načíst JSON'. Fotky doplň ručně v editoru.",
+  "meta": {
+    "title": "AI kódování: klíčové pojmy",
+    "theme": "zolty",
+    "design": "editorial"
+  },
+  "slides": [
+    {
+      "id": 0,
+      "type": "hook",
+      "bg": "light",
+      "tag": "AI KÓDOVÁNÍ",
+      "heading": "10 pojmů, které změní, jak pracuješ s AI",
+      "body": "Slovník kódování s umělou inteligencí — přeložený do češtiny, srozumitelný pro každého.",
+      "textAlignV": "center",
+      "decorativeEmoji": "🤖"
+    },
+    {
+      "id": 1,
+      "type": "photo",
+      "bg": "dark",
+      "tag": "ZÁKLAD #1",
+      "emoji": "🧠",
+      "heading": "Model: mozek AI",
+      "body": "Soubor miliard čísel, který určuje, co AI ví a jak reaguje. Je bez paměti — s každým dotazem začíná od nuly.",
+      "imgSrc": "",
+      "posX": 50,
+      "posY": 35,
+      "textY": 215
+    },
+    {
+      "id": 2,
+      "type": "photo",
+      "bg": "light",
+      "tag": "ZÁKLAD #2",
+      "emoji": "💡",
+      "heading": "Token a inference: jak AI „přemýšlí"",
+      "body": "AI nečte slova, ale tokeny — kousky textu. Inference je moment, kdy model generuje odpověď. Za každý token zpracovaný i vygenerovaný platíš.",
+      "imgSrc": "",
+      "posX": 50,
+      "posY": 35,
+      "textY": 215
+    },
+    {
+      "id": 3,
+      "type": "photo",
+      "bg": "dark",
+      "tag": "KAPACITA",
+      "emoji": "🔭",
+      "heading": "Kontextové okno: zorné pole AI",
+      "body": "Omezený prostor (~200 000 tokenů), kam se musí vejít vše — instrukce, kód i celá historie chatu. Jakmile je plný, AI nevidí zbytek.",
+      "imgSrc": "",
+      "posX": 50,
+      "posY": 35,
+      "textY": 215
+    },
+    {
+      "id": 4,
+      "type": "photo",
+      "bg": "light",
+      "tag": "POZORNOST",
+      "emoji": "⚠️",
+      "heading": "Chytrá vs. hloupá zóna",
+      "body": "Pod 100 000 tokenů je AI soustředěná a přesná. Jakmile se kontext zaplní, nastupuje degradace pozornosti — AI zapomíná a dělá chyby.",
+      "imgSrc": "",
+      "posX": 50,
+      "posY": 35,
+      "textY": 215
+    },
+    {
+      "id": 5,
+      "type": "photo",
+      "bg": "dark",
+      "tag": "AGENT",
+      "emoji": "🛠️",
+      "heading": "Agent: AI, která skutečně pracuje",
+      "body": "Chatbot jen mluví. Agent má nástroje — čte soubory, spouští příkazy v terminálu, prohledává databáze. AI v pohybu s reálným dopadem.",
+      "imgSrc": "",
+      "posX": 50,
+      "posY": 35,
+      "textY": 215
+    },
+    {
+      "id": 6,
+      "type": "photo",
+      "bg": "light",
+      "tag": "SELHÁNÍ AI",
+      "emoji": "🎭",
+      "heading": "Halucinace a patolízalství",
+      "body": "Halucinace: AI si sebevědomě vymýšlí fakty. Patolízalství: AI s tebou souhlasí, i když se mýlíš. Kritické myšlení nelze vypnout.",
+      "imgSrc": "",
+      "posX": 50,
+      "posY": 35,
+      "textY": 215
+    },
+    {
+      "id": 7,
+      "type": "photo",
+      "bg": "dark",
+      "tag": "ZNALOSTNÍ STOPKA",
+      "emoji": "📅",
+      "heading": "Knowledge cutoff: co AI neví",
+      "body": "Datum, kdy skončil trénink modelu. AI nezná události ani technologie, které vznikly po tomto datu — pokud jí je nepošleš v kontextu.",
+      "imgSrc": "",
+      "posX": 50,
+      "posY": 35,
+      "textY": 215
+    },
+    {
+      "id": 8,
+      "type": "photo",
+      "bg": "light",
+      "tag": "NOVÉ STYLY PRÁCE",
+      "emoji": "⚡",
+      "heading": "Vibe Coding, Grilling, AFK",
+      "body": "Vibe Coding: přijmi kód, pokud funguje. Grilling: nech AI klást otázky, dokud ví přesně, co chceš. AFK: pusť agenta a jdi spát.",
+      "imgSrc": "",
+      "posX": 50,
+      "posY": 35,
+      "textY": 215
+    },
+    {
+      "id": 9,
+      "type": "cta",
+      "bg": "gradient",
+      "heading": "AI kódování není o stroji — je o řízení pozornosti a kontextu.",
+      "body": "Sleduj profil a nezmeškej další obsah o kódování s umělou inteligencí."
+    }
+  ]
+}
